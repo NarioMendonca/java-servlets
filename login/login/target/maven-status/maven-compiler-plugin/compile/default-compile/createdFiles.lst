@@ -1,0 +1,4 @@
+com/example/login/resources/RestResource.class
+com/example/login/ApplicationConfig.class
+com/example/servlets/LoginServlet.class
+com/example/login/resources/HelloRecord.class
