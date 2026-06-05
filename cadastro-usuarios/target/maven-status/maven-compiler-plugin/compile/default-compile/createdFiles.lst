@@ -1,0 +1,6 @@
+model/Usuario.class
+dev/nario/cadastrousuarios/resources/HelloRecord.class
+dev/nario/cadastrousuarios/resources/RestResource.class
+services/UsuarioService.class
+dev/nario/cadastrousuarios/ApplicationConfig.class
+servlets/UsuarioServlet.class
